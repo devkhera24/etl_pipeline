@@ -1,2 +1,13 @@
-.venv/
+
+# OCR outputs
+data/ocr_outputs/
+
+# Local test artifacts
+sample.png
+
+# Python cache
 __pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
